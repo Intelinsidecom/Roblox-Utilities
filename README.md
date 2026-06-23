@@ -12,4 +12,4 @@ A utility for automating, simplifying the process for specific checks or uses re
 
 ## Credits
 - Brent (for better documentation on signatures https://docs.robloxreverseengineering.net/Client%20Security/Signatures/)
-- 
+- rbxcdn for creating the original version (https://github.com/rbxcdn/rbxsigtools)?
